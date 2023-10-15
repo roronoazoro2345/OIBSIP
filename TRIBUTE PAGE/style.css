@@ -1,0 +1,42 @@
+*{
+    margin: 7px;
+    padding:7px;
+    background:lightgray;
+}
+.title{
+    width: 100%;
+    height:100%;
+    color:#fa071c ;
+    text-align: center;
+    font-style: bold;
+    
+}
+.subhead{
+    width: 100%;
+    height:100%;
+    color:#103b0f;
+    text-align: center;
+    justify-content: right;
+    
+}
+.image
+{
+   display: flex;
+   justify-content: center;
+   border-radius: 4px ;
+    
+
+}
+ul{
+    list-style: none;
+}
+.container
+{
+    font-style: bold;
+    font-size: 25px;
+}
+.container1{
+   font-style: bold;
+    font-size: 25px;
+    
+}
